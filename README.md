@@ -1,5 +1,8 @@
 # 💫 About Me:
-I´m currently work on education, I´m teacher in technical highschool.<br>i´m looking to collaborate on frontend projects<br>i´m looking for help to get my first IT job<br>i´m currently learning fullstack web developer
+:seedling: I´m currently work on education, I´m teacher in technical highschool.<br>
+:mag_right: i´m looking to collaborate on frontend projects<br>
+:handshake: i´m looking for help to get my first IT job<br>
+:books: i´m currently learning fullstack web developer
 
 
 ## 🌐 Socials:
